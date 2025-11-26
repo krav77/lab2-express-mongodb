@@ -1,0 +1,20 @@
+{
+  "measurements": [
+    {
+      "id": "1",
+      "station_name": "Станція Київ-1",
+      "city_name": "Київ",
+      "pm25": 18.4,
+      "pm10": 32.1,
+      "measurement_time": "2025-11-10T09:30:00Z"
+    },
+    {
+      "id": "2",
+      "station_name": "Станція Львів-2",
+      "city_name": "Львів",
+      "pm25": 42.7,
+      "pm10": 55,
+      "measurement_time": "2025-11-10T09:40:00Z"
+    }
+  ]
+}
